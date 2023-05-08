@@ -1,1 +1,1 @@
-# uno_card_recognition
+# uno_card_cv

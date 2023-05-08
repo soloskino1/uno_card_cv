@@ -44,12 +44,19 @@ To use this repository:
 References:
 
 https://stackoverflow.com/questions/10948589/choosing-the-correct-upper-and-lower-hsv-boundaries-for-color-detection-withcv
+
 https://pyimagesearch.com/2021/05/12/opencv-edge-detection-cv2-canny/#:~:text=The%20Canny%20edge%20detector%20is%20a%20multi%2Dstep%20algorithm%20used,Computational%20Approach%20to%20Edge%20Detection.
+
 https://pyimagesearch.com/2021/01/19/opencv-bitwise-and-or-xor-and-not/
+
 https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74
+
 https://github.com/CiprianFlorin-Ifrim/uno_recognition_computervision
+
 https://datacamp.com/tutorial/random-forests-classifier-python
+
 https://opencv24-python-tutorials.readthedocs.io/en/latest/py_tutorials/py_feature2d/py_shi_tomasi/py_shi_tomasi.html
+
 https://stackoverflow.com/questions/10592605/save-classifier-to-disk-in-scikit-learn
 
 

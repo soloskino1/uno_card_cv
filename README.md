@@ -2,7 +2,7 @@
 
 This repository contains Jupyter Notebook files for recognizing Uno cards. 
 
-Video demonstrations can be fine on these links:
+Video demonstrations can be found on these links:
 Part1: <https://youtu.be/nRWiw0EtqKo>
 
 Part2: <https://youtu.be/k9-xhOXJ6SE>
